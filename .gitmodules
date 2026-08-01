@@ -1,0 +1,9 @@
+[submodule "veil-api"]
+	path = veil-api
+	url = https://github.com/thatsbass/veil-api.git
+[submodule "veil-cli"]
+	path = veil-cli
+	url = https://github.com/thatsbass/veil-cli.git
+[submodule "veil-dashboard"]
+	path = veil-dashboard
+	url = https://github.com/thatsbass/veil-dashboard.git
